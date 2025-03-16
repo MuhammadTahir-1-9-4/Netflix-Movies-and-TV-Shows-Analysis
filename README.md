@@ -24,9 +24,3 @@ This project explores and analyzes the Netflix dataset, which contains details a
 ✔ Trend of content release over the years  
 ✔ Top directors and actors with most content  
 ✔ Content distribution by country  
-
-## 🚀 How to Run  
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/yourusername/netflix-tvshows-analysis.git
-   cd netflix-tvshows-analysis
